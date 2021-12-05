@@ -11,6 +11,7 @@ export default {
     hmr: {
       port: 443,
     }
-  }
+  },
+  base: "/projects/MyWavePortal"
 }
 
